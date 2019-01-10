@@ -1,0 +1,34 @@
+.wbg{
+	background-color: rgba(255,255,255,0.2);
+    border-radius: 10px;
+  	width: 31% !important;
+  margin:15px;
+}
+
+.w30{
+	width:30%;
+}
+
+.loc-section{
+	text-align: center;
+  font-size:3rem;
+}
+.city-name{
+	color: white;
+}
+
+#ganmao{
+	width:80%;
+}
+
+.today-section{
+	text-align: center;
+  background-color: rgba(255,255,255,0.2);
+  margin: 50px;
+  padding: 20px;
+}
+
+
+.mb10{
+	margin-bottom:-20px;
+}
