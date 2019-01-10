@@ -5,5 +5,5 @@
 
 ![wechat mini weather](http://35.200.105.78/wxmini/wechat-mini-weather.jpg| width=100)
 
-![](http://35.200.105.78/wxmini/wechat-mini-weather.jpg)
+![](http://35.200.105.78/wxmini/wechat-mini-weather.jpg){:height="400px" width="400px"}
 
